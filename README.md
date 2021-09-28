@@ -7,3 +7,7 @@
  - Danula Wanasinghe
  - Chamathka Maddugoda
  - Hasini Ramawickrama
+
+#### Technologies
+ - Jupyter Notebook
+ - Plotly Dash
